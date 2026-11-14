@@ -190,14 +190,6 @@ Overall, this Week 2 cybersecurity practical was a valuable hands-on learning ex
 
 ### 9. Evidence and Screenshots
 
-The following evidence can be included in this repository:
+## Practical Evidence
 
-1. Kali Linux virtual machine running in VirtualBox.
-
-2. Google Dork search results for security camera listings.
-3. Google Dork search results for mathematics PDF resources.
-4. Completed W2-PM2 worksheet.
-5. Kali Linux network configuration showing the local IP address and subnet.
-6. Zenmap target configuration.
-7. Zenmap ping scan results.
-8. Zenmap topology view.
+All screenshots and practical evidence are compiled into one file - Screenshots.
